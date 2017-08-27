@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestSkill</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_search">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="flick_api_key">0963e3b44f25e5afb0f17650a3a1722a</string>
+    <string name="flick_api_secret">cc51952addd94f74</string>
+    <string name="progress_dialog_title">Please wait a second...</string>
+</resources>
